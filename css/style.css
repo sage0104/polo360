@@ -100,12 +100,14 @@ hr{
     background: linear-gradient(to right, #31669b, #4b83bd, #326598, #306193);
 }
 form input{
+    margin-top: 10px;
     padding: 5px 35px;
     width: 100%;
 }
 form textarea{
     width: 100%;
     padding: 5px 35px;
+    margin-top: 10px;
 }
 form{
     display: flex;
